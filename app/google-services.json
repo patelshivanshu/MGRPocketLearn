@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731536625104",
+    "project_id": "mgrpocketlearn",
+    "storage_bucket": "mgrpocketlearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731536625104:android:e9b6880f352e7526607dd5",
+        "android_client_info": {
+          "package_name": "com.example.mgrpocketlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731536625104-u146as11rrvuine19eup32qk2950uosc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBG6hGkpHg60LFAjREkF5HRNoz_7obOas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731536625104-u146as11rrvuine19eup32qk2950uosc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

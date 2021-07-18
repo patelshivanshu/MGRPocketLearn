@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">M.G.R PocketLearn</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">AVS</string>
+    <string name="nav_header_subtitle">abc@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="First_Year">FirstYear</string>
+    <string name="menu_Logout">Logout</string>
+    <string name="sign_in">sign In</string>
+</resources>
